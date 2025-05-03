@@ -1,0 +1,10 @@
+[Replay Calculator ]
+name = "Replay Calculator"
+version = "1.0.0"
+description = "A simple calculator with replay system"
+authors = [{ name = "Uche Ibe", email = "uibe02rams.shepherd.edu" }]
+license = "MIT"
+requires-python = ">=3.7"
+
+[tool.setuptools]
+packages = []
